@@ -1,6 +1,6 @@
 const disableSetup = false;
 const disableLdCfg = false;
-var topBarCenterText = `K1DBC - DM79MP`;
+var topBarCenterText = `K1DBC - DM79mp`;
 
 // Grid layout
 var layout_cols = 4;
