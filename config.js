@@ -24,7 +24,7 @@ var aURL = [
   [
     "2196F3",
     "LIGHTNING",
-    "https://map.blitzortung.org/#3.87/36.5/-89.41",
+    "https://map.blitzortung.org/#9.62/39.6685/-104.606",
     "1",
     "R",
   ],
