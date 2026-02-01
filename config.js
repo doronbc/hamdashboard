@@ -63,7 +63,7 @@ var aIMG = [
   [["Radar CONUS", "Radar Small"], "https://radar.weather.gov/ridge/standard/CONUS-LARGE_loop.gif", "https://radar.weather.gov/ridge/standard/CONUS_loop.gif"],
   [
     "LOCAL RADAR (inverted)",
-    "invert|https://radar.weather.gov/ridge/standard/KNQA_loop.gif",
+    "invert|https://radar.weather.gov/ridge/standard/KFTG_loop.gif",
   ],
   [
     "NOAA D-RAP (inverted)",
@@ -89,7 +89,7 @@ var aIMG = [
     "LIGHTNING LOCAL",
     "https://www.blitzortung.org/en/Images/image_b_ny.png",
   ],
-  ["YOUTUBE EXAMPLE", "iframe|https://www.youtube.com/embed/fzPFaXAV_2Y?autoplay=1&mute=1"],
+  ["YOUTUBE EXAMPLE", "iframe|https://www.youtube.com/embed/iX50P_swoK4?autoplay=1&mute=1"],
   [
     "WEBSITE EXAMPLE",
     "iframe|https://globe.adsbexchange.com/?airport=KAPA",
